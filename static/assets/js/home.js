@@ -193,7 +193,6 @@ function US() {
   SplashE.innerText = SplashT[SplashI];
 }
 
-SplashE.innerText = SplashT[SplashI];
 
 SplashE.addEventListener("click", US);
 // Random URL
